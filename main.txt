@@ -1,13 +1,5 @@
-<<<<<<< HEAD
-working
-=======
 hello world
-<<<<<<< HEAD
-this text is in branch 2
->>>>>>> 730a2271fed26407afdf378b44baca6ea491ed92
-=======
 This is Wasim Akram from branch-wasim 
 this text is in branch 2
 this text is in branch 2
-hello from main branch
->>>>>>> 680a3078673898a31c0d7ad1a44e6cc9c8a180e4
+this work by ali
