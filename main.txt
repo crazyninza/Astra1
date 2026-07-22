@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 working
+=======
+hello world
+this text is in branch 2
+>>>>>>> 730a2271fed26407afdf378b44baca6ea491ed92
